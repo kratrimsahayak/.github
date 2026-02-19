@@ -1,5 +1,4 @@
 # Introduction to Kratrim
-
 Welcome to Kratrim, your AI-powered software development automation platform. Kratrim streamlines your entire development lifecycle, from requirements to deployment.
 
 ## What is Kratrim?
