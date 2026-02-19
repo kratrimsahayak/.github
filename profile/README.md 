@@ -1,0 +1,24 @@
+# Introduction to Kratrim
+
+Welcome to Kratrim, your AI-powered software development automation platform. Kratrim streamlines your entire development lifecycle, from requirements to deployment.
+
+## What is Kratrim?
+
+Kratrim is an intelligent development platform that combines cutting-edge AI models with workflow orchestration to automate repetitive development tasks, allowing you to focus on what matters most: building great products.
+
+## Key Benefits
+
+- **AI-Powered Automation**: Leverage multiple AI models (OpenAI, Anthropic, Google) for intelligent code generation and assistance
+- **End-to-End Workflow**: Manage everything from project creation to deployment in one place
+- **Flexible Deployment**: Support for both fast and full deployment modes to match your needs
+- **Secure**: Enterprise-grade security with encrypted secret management
+- **Developer-Friendly**: Clean, intuitive interface designed for developers
+
+## How It Works
+
+1. **Create a Project**: Start by creating a new project
+2. **Configure Secrets**: Add your API keys and credentials securely
+3. **Deploy**: Choose your deployment mode and let Kratrim handle the rest
+4. **Monitor**: Track your deployments and sessions in real-time
+
+
